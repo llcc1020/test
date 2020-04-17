@@ -1,2 +1,6 @@
 hellow world
+<<<<<<< HEAD
 b2b2b2b2b2b
+=======
+b1bb1b1b1b1b
+>>>>>>> master
