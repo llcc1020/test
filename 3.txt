@@ -1,1 +1,3 @@
 add ssh key
+C:\Users\a1329>ssh -T git@github.com
+Hi llcc1020! You've successfully authenticated, but GitHub does not provide shell access.
